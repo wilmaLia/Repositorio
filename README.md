@@ -1,5 +1,5 @@
 # Mi repositorio
 
 <div align="center">
-	![Animacion](animacion.gif)
+    ![Animacion](animacion.gif)
 </div>
