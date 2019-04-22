@@ -1,3 +1,5 @@
 # Mi repositorio
 
- ![Animacion](animacion.gif)
+<div align="center">
+	![Animacion](animacion.gif)
+</div>
